@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Buidling server side apps running on node 
 - 🌱 I’m currently learning ... developing production level server side code with node
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... dev.sid2404@gmail.com
+- 📫 How to reach me ... dev.sid2404@gmail.com || siddhanthshetty2404@gmail.com
 
 <!---
 devsid2404/devsid2404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
